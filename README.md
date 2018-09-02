@@ -1,5 +1,5 @@
 # STAK
-Simple but complete stack based programming language
+Simple but complete stack based programming language, 100% written in c++
 
 Has variables, strings, numbers, comments, math, logic operations, jumps, conditional jumps, console input and output, code injection.
 

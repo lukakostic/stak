@@ -1,7 +1,7 @@
 # STAK
 Simple but complete stack based programming language, 100% written in c++
 
-Interpreter is just a main.cpp file with ~ 300 lines of VERY commented code.
+Interpreter is just a [main.cpp](/stak/blob/master/stak/main.cpp) file with ~ 300 lines of VERY commented code.
 
 Has variables, strings, numbers, comments, math, logic operations, jumps, conditional jumps, console input and output, code injection.
 

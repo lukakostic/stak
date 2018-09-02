@@ -58,6 +58,6 @@ ifjmp
 
 5 wait
 
-loop2 jmp
+;loop2
 "." print
-loop2 goto
+loop2 jmp

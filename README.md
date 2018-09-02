@@ -160,7 +160,7 @@ put - puts string value of element on stack
 
 dup - duplicates last stack element
 
-.### - (without dot) prints stack info (size, elements)
+###- prints stack info (size, elements)
 
 empty - cleans stack
 

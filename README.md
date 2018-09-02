@@ -18,6 +18,12 @@ No error handling, so expect wierd errors if your stak code is wrong
 
 ## Examples
 
+If you want a script that covers most below examples, look here: [script.stak](/script.stak)
+![script](https://user-images.githubusercontent.com/41348897/44952387-4f0a7d80-ae7e-11e8-9843-1ed5da09d780.png)
+
+
+
+
 The program closes after being executed, so add a "stop" at end to make it not close.
 
 push string literal "Hello world" to the stack and then print.

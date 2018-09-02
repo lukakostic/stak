@@ -30,7 +30,7 @@ push number literal 3.14 to stack then print.
 
 print and printl print the last thing on the stack. printl adds a newline at end.
 
-push name "a" to stack, then push string "variable!", then push function = which sets value to the name, declaring the variable a as string "variable!"
+push name "a" to stack, then push string "variable!", then push function '=' which sets value to the name, declaring the variable a as string "variable!"
 ~~~
 a "variable!" =
 ~~~

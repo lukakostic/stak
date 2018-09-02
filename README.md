@@ -1,4 +1,4 @@
-# STAK
+# stak (not an acronym , just a different way of saying stack)
 Simple but complete stack based programming language, 100% written in c++
 
 Interpreter is just a [main.cpp](/stak/main.cpp) file with ~ 300 lines of VERY commented code.

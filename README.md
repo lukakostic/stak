@@ -16,7 +16,7 @@ You make all .stak files open with stak/debug/stak.exe so you can run them.
 
 No error handling, so expect wierd errors if your stak code is wrong
 
-##Examples
+## Examples
 
 The program closes after being executed, so add a "stop" at end to make it not close.
 

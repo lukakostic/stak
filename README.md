@@ -10,6 +10,8 @@ Its interpreted (interpreter in c++), but can be compiled (will probs make a com
 Language is optimized for simplicity of writing an interpreter for it,
 so the interpreter is quite short & simple and very easy to change / add features to.
 
+Interpreter is just a main.cpp file with ~ 300 lines of VERY commented code.
+
 You make all .stak files open with stak/debug/stak.exe so you can run them.
 
 No error handling, so expect wierd errors if your stak code is wrong

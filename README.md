@@ -1,6 +1,8 @@
 # STAK
 Simple but complete stack based programming language, 100% written in c++
 
+Interpreter is just a main.cpp file with ~ 300 lines of VERY commented code.
+
 Has variables, strings, numbers, comments, math, logic operations, jumps, conditional jumps, console input and output, code injection.
 
 The jumps can be used to form loops and functions.
@@ -9,8 +11,6 @@ Its interpreted (interpreter in c++), but can be compiled (will probs make a com
 
 Language is optimized for simplicity of writing an interpreter for it,
 so the interpreter is quite short & simple and very easy to change / add features to.
-
-Interpreter is just a main.cpp file with ~ 300 lines of VERY commented code.
 
 You make all .stak files open with stak/debug/stak.exe so you can run them.
 

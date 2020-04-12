@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\projects\stak2\stak2\main.cpp(55): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+e:\projects\stak2\stak2\main.cpp(235): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\projects\stak2\stak2\main.cpp(285): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  stak.vcxproj -> E:\Projects\stak2\x64\Debug\stak2.exe

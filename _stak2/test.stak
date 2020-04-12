@@ -1,0 +1,11 @@
+printAllLower {
+
+{{is 1}} if
+
+{is 0} printl
+
+} =
+
+1 printAllLower eval
+
+stop

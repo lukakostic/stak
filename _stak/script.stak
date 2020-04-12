@@ -1,0 +1,63 @@
+3.14 printl ; print 3.14
+
+{hello world} printl ; print hello world
+
+var {variable!} = ; set value "variable!" to var
+
+var printl ; print value of var
+
+a 3 = ; set value 3 to a
+
+b 7 =
+
+
+{a=} print a printl ; print a= then print a
+
+{b=} print b printl
+
+{a+b=} print a b + printl
+
+{a-b=} print a b - printl
+
+{a/b=} print a b / printl
+
+{a*b=} print a b * printl
+
+{a%b=} print a b % printl
+
+{a>b=} print a b > printl
+
+{a<b=} print a b < printl
+
+{!0=} print 0 ! printl
+
+{!1=} print 1 ! printl
+
+{inject:} printl inject
+
+{input:} print input printl
+
+{inputraw (please write a or b):} print inputraw printl
+
+
+sky
+{is the sky blue? (yes/no):} print input
+=
+
+{you said } print sky printl
+
+sky {yes} ==
+saidYes
+ifjmp
+{WRONG!} printl
+;saidYes {You are smart!} printl
+
+{} printl
+
+{Dot spam in 5 sec} printl
+
+5 wait
+
+;loop2
+{.} print
+loop2 jmp
